@@ -1,4 +1,4 @@
-# Bilkent Campus Connect
+# Bilkent Online
 
 <!--
 
